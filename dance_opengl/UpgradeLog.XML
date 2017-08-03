@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dance">
+</Property><Property Name="Solution File" Value="C:\Users\liwuen\Dropbox\Maestria NTU\Sistemas\2nd semestre\Virtual Reality\Tarea 1\dance_cpp_good1 - VS10\Dance.sln">
+</Property><Property Name="Date" Value="Tuesday, October 29, 2013">
+</Property><Property Name="Time" Value="13:44 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Dance" Source="Dance.vcproj" Description="Converting project file 'C:\Users\liwuen\Dropbox\Maestria NTU\Sistemas\2nd semestre\Virtual Reality\Tarea 1\dance_cpp_good1 - VS10\Dance.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Dance" Source="Dance.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Dance" Source="Dance.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\liwuen\Dropbox\Maestria NTU\Sistemas\2nd semestre\Virtual Reality\Tarea 1\dance_cpp_good1 - VS10\.\Debug\Dance.exe') does not match the Linker's OutputFile property value '.\Debug/Dance.exe' ('C:\Users\liwuen\Dropbox\Maestria NTU\Sistemas\2nd semestre\Virtual Reality\Tarea 1\dance_cpp_good1 - VS10\Debug/Dance.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Dance" Source="Dance.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\liwuen\Dropbox\Maestria NTU\Sistemas\2nd semestre\Virtual Reality\Tarea 1\dance_cpp_good1 - VS10\.\Release\Dance.exe') does not match the Linker's OutputFile property value '.\Release/Dance.exe' ('C:\Users\liwuen\Dropbox\Maestria NTU\Sistemas\2nd semestre\Virtual Reality\Tarea 1\dance_cpp_good1 - VS10\Release/Dance.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Dance" Source="Dance.vcproj" Description="Done converting to new project file 'C:\Users\liwuen\Dropbox\Maestria NTU\Sistemas\2nd semestre\Virtual Reality\Tarea 1\dance_cpp_good1 - VS10\Dance.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Dance" Source="Dance.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Dance.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Dance.sln" Description="Converted">
+</Event></UpgradeLog>

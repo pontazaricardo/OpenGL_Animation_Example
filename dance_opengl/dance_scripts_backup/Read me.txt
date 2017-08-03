@@ -1,0 +1,1 @@
+If for some reason there is a problem with the dancing scripts, just replace them with the backup_final scripts.
