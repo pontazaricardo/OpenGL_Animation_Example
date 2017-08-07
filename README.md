@@ -77,25 +77,25 @@ void keyboard (unsigned char key, int x, int y)
 function in the **dance.cpp** file
 3.	At the moment, any movement of the keyboard will affect all the players. If you want to modify an specific player, change the code
 ```c++
-		for(contador=0;contador<9;contador++){
-			actor[contador].Torso.Offset[0] += 1;
-		}
+for(contador=0;contador<9;contador++){
+	actor[contador].Torso.Offset[0] += 1;
+}
 ```
 To
 ```c++	
-		actor[actorIdx].Torso.Offset[0] += 1;
+actor[actorIdx].Torso.Offset[0] += 1;
 ```
 The way how to determine the index of each player is given in
 ```c++
-		case '1': animation.actorIndex = 0;    break;
-		case '2': animation.actorIndex = 1;    break;
-		case '[': animation.actorIndex = 2;    break;
-		case '{': animation.actorIndex = 3;    break;
-		case ']': animation.actorIndex = 4;    break;
-		case '}': animation.actorIndex = 5;    break;
-		case '-': animation.actorIndex = 6;    break;
-		case '_': animation.actorIndex = 7;    break;
-		case '+': animation.actorIndex = 8;    break;
+case '1': animation.actorIndex = 0;    break;
+case '2': animation.actorIndex = 1;    break;
+case '[': animation.actorIndex = 2;    break;
+case '{': animation.actorIndex = 3;    break;
+case ']': animation.actorIndex = 4;    break;
+case '}': animation.actorIndex = 5;    break;
+case '-': animation.actorIndex = 6;    break;
+case '_': animation.actorIndex = 7;    break;
+case '+': animation.actorIndex = 8;    break;
 ```
 4.	By pressing and holding **SHIFT** while pressing the translation or rotation keys, the object will move in the opposite direction.
 
