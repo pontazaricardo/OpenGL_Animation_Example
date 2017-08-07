@@ -79,7 +79,7 @@ There are some important notes:
 ```c++
 void keyboard (unsigned char key, int x, int y)
 ```
-function in the **dance.cpp** file
+function in the **dance.cpp** file.
 3.	At the moment, any movement of the keyboard will affect all the players. If you want to modify an specific player, change the code
 ```c++
 for(contador=0;contador<9;contador++){
