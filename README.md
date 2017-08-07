@@ -117,7 +117,7 @@ were used here. A file having a remix of them can be found inside the project's 
 
 In order to execute it, just run the project. To initiate the animation:
 1. Click on the generated window (the one with the 3D character).
-2. Type the *equal* key ('=') in your keyboard.
+2. Type the *equals* key ('=') in your keyboard.
 
 ![Example](/images/animation.gif?raw=true)
 
