@@ -1,6 +1,6 @@
 # OpenGL_Animation_Example
 
-This is a project that shows how to use OpenGL to make some dancing animations in c++.
+This is a project that shows how to use OpenGL to make some dancing animations in c++. You can see the full animation [https://www.youtube.com/watch?v=KFd-cBKOI2c](here).
 
 ## Libraries and IDE
 
@@ -106,9 +106,17 @@ case '+': animation.actorIndex = 8;    break;
 
 ## Music
 
+The songs:
+1. Harlem Shake
+2. Gangnam Style
+were used here. A file having a remix of them can be found inside the project's main folder.
+
 ## Execution
 
 In order to execute it, just run the project. To initiate the animation:
 1. Click on the generated window (the one with the 3D character).
 2. Type the *equal* key ('=') in your keyboard.
 
+![Example](/images/animation.gif?raw=true)
+
+You can see the full animation in [https://www.youtube.com/watch?v=KFd-cBKOI2c](Youtube).
