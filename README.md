@@ -109,6 +109,7 @@ case '+': animation.actorIndex = 8;    break;
 The songs:
 1. Harlem Shake
 2. Gangnam Style
+
 were used here. A file having a remix of them can be found inside the project's main folder.
 
 ## Execution
