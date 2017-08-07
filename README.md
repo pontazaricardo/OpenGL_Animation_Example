@@ -1,6 +1,6 @@
 # OpenGL_Animation_Example
 
-This is a project that shows how to use OpenGL to make some dancing animations in c++. You can see the full animation [https://www.youtube.com/watch?v=KFd-cBKOI2c](here).
+This is a project that shows how to use OpenGL to make some dancing animations in c++. You can see the full animation [here](https://www.youtube.com/watch?v=KFd-cBKOI2c).
 
 ## Libraries and IDE
 
@@ -119,4 +119,4 @@ In order to execute it, just run the project. To initiate the animation:
 
 ![Example](/images/animation.gif?raw=true)
 
-You can see the full animation in [https://www.youtube.com/watch?v=KFd-cBKOI2c](Youtube).
+You can see the full animation in [Youtube](https://www.youtube.com/watch?v=KFd-cBKOI2c).
