@@ -74,13 +74,14 @@ Instep:
 ## Notes
 
 There are some important notes:
-1.	The original animation has 9 players. These can be added or removed easily, but if wanted to be modified, check the *actor1.txt, ..., actor9.txt* files (they contain the coordinates of all the 3D objects in each frame of the animation).
-2.	If you want to modify the way how one of the players move, modify the code in 
+1. The original animation has 9 players. These can be added or removed easily, but if wanted to be modified, check the *actor1.txt, ..., actor9.txt* files (they contain the coordinates of all the 3D objects in each frame of the animation).
+2. If you want to modify the way how one of the players move, modify the code in 
 ```c++
 void keyboard (unsigned char key, int x, int y)
 ```
 function in the **dance.cpp** file.
-3.	At the moment, any movement of the keyboard will affect all the players. If you want to modify an specific player, change the code
+
+3. At the moment, any movement of the keyboard will affect all the players. If you want to modify an specific player, change the code
 ```c++
 for(contador=0;contador<9;contador++){
 	actor[contador].Torso.Offset[0] += 1;
@@ -102,7 +103,7 @@ case '-': animation.actorIndex = 6;    break;
 case '_': animation.actorIndex = 7;    break;
 case '+': animation.actorIndex = 8;    break;
 ```
-4.	By pressing and holding **SHIFT** while pressing the translation or rotation keys, the object will move in the opposite direction.
+4. By pressing and holding **SHIFT** while pressing the translation or rotation keys, the object will move in the opposite direction.
 
 ## Music
 
